@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    color: aliceblue;
+    margin: 30px 600px;
+    padding: 10px 25px;
+    background-color: black;
+    text-align: center;
+}
+
+.container{
+    background-color: black;
+    border: solid 5px red;
+    width: 800px;
+    height: 538px;
+    margin: 0 auto;
+}
+
+.box{
+    background-color: aqua;
+    width: 700px;
+    height: 200px;
+    margin: 35px auto;
+    padding: 30px;
+}
